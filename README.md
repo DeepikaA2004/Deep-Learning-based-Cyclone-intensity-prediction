@@ -1,4 +1,4 @@
-# CycloNet
+# Deep Learning Based Cyclone intensity prediction
 
 ## Cyclone Intensity Estimation using Deep Learning
 
