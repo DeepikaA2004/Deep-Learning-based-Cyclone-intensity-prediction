@@ -2,11 +2,13 @@
 
 ## Cyclone Intensity Estimation using Deep Learning
 
-A Web-App User Interface where the user can upload INSAT-3D IR Satellite Image of Cyclone which is then passed to our Deep Convolutional Neural Network built in PyTorch which is trained on Cyclone imagery of various intensities on our custom dataset curated from Raw INSAT-3D satellite captured images on MOSDAC server. 
+A user-friendly web application interface has been developed, allowing users to upload INSAT-3D IR Satellite Images of Cyclones. These images are then processed through our custom-built Deep Convolutional Neural Network implemented in PyTorch. The neural network has been meticulously trained on Cyclone imagery of various intensities using a specialized dataset created from raw INSAT-3D satellite-captured images available on the MOSDAC server.
 
-The CNN eliminates the need for usage of traditional methods for accurate center determination to estimate the Cyclone intensity using Satellite imagery. 
+By employing this CNN, the necessity for traditional methods to accurately determine the center of Cyclones and estimate their intensity using satellite imagery has been eliminated.
 
-The Model will return the estimated Intensity of satellite cyclone image in KNOTS instantly, the user would also have the option to upload metadata values like Datetime, latitudinal position, etc. for the Cyclonic event which will be stored in the Database pushing it in a archive of all past cyclonic events that have been inputted in the interface. User can view the past cyclonic events in the database with event-related metadata in the archive and visualize the imagery. Flask will be used to integrate the web-application together in Python.
+Upon processing, the model promptly provides an estimated intensity of the satellite cyclone image in knots. Additionally, users have the flexibility to upload metadata values such as datetime, latitudinal position, etc., for the cyclonic event. These values are stored in a database, creating an archive of all past cyclonic events inputted through the interface. Users can easily access and visualize the past cyclonic events in the database along with their associated metadata.
+
+The web application is seamlessly integrated using Flask, facilitating a smooth and interactive experience for users in Python.
 
 ## Dataset
 
