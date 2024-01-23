@@ -27,7 +27,7 @@ Machine-learning-pipeline: PyTorch
 
 ``Home section:`` landing section of the website
 
-![Hero](https://user-images.githubusercontent.com/101162842/163724950-78dbfb1e-c414-4d2d-8a12-b7d4b2d4bdc6.jpg)
+![Screenshot (420)](https://github.com/DeepikaA2004/Deep-Learning-based-Cyclone-intensity-prediction/assets/110418508/33cc0205-5ab6-4903-bd53-5a0c1a5979d2)
 
 
 ``Form section:`` used to pass the image to the model which computes intensity and forwards input data to the archive via database
