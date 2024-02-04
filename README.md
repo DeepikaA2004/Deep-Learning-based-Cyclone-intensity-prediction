@@ -10,10 +10,6 @@ Upon processing, the model promptly provides an estimated intensity of the satel
 
 The web application is seamlessly integrated using Flask, facilitating a smooth and interactive experience for users in Python.
 
-## Dataset
-
-[Curated Dataset link](https://www.kaggle.com/datasets/sshubam/insat3d-infrared-raw-cyclone-images-20132021)
-
 ## Tech Stack Used
 
 Front-end: HTML , CSS, Bootstrap and JavaScript
